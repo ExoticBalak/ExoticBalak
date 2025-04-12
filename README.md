@@ -1,5 +1,5 @@
 <p align="justify">
-  <img src="20250413_033037.jpg" alt="Banner" />
+  <img src="banner.jpg" alt="Banner" />
 </p>
 
 ---
