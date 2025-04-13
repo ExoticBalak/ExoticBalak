@@ -1,4 +1,5 @@
-■█■█■█■█■█■█■█■
+---
+
 <p align="justify">
   <img src="banner.jpg" alt="Banner" />
 </p>
@@ -111,8 +112,10 @@ ___
 > If it doesn't... still don't touch it."`
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
+  <img src="https://www.alamy.com/stock-photo/gamosa.html?sortBy=relevant" width="200" />
 </p>
+
+---
 
 <p align="center"><b>ಠ_ಠ Still here?</b> Go check a repo or something.</p>
 
