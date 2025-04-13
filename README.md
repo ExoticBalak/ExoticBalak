@@ -1,4 +1,4 @@
-■█■█■█■█■█■█■█■■█■█■█■█■█■█■█■
+■█■█■█■█■█■█■█■
 <p align="justify">
   <img src="banner.jpg" alt="Banner" />
 </p>
