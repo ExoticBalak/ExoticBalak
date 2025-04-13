@@ -112,7 +112,7 @@ ___
 > If it doesn't... still don't touch it."`
 
 <p align="center">
-  <img src="https://unsplash.com/photos/green-trees-and-mountains-during-daytime-kjTrWNAMm4c" width="200" />
+  <img src="https://unsplash.com/photos/green-trees-and-mountains-during-daytime-kjTrWNAMm4c" />
 </p>
 
 ---
