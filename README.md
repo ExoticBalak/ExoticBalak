@@ -6,7 +6,7 @@
 
 <!-- Banner GIF -->
 <h1 align="center" style="font-family: monospace; color:#39ff14;">
-Meow ⚡
+Meow 😼
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@ Meow ⚡
 ---
 
 
-## 🧠 About Me
+## About Me
 
 > `"If it's stupid and it works — it's not stupid."`
 
@@ -57,7 +57,10 @@ ___
 
 ## ⚔️ Note:
 
-def fix_bug(): try: code() except: pass  # it's fixed now, trust me bro
+def fix_bug():
+try:
+ code() except: pass:
+ `it's fixed now, trust me bro`
 
 > **"I don't always write code...  
 > but when I do, it crashes successfully."**
@@ -68,7 +71,7 @@ def fix_bug(): try: code() except: pass  # it's fixed now, trust me bro
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhritish&label=~+Profile+Views+~&color=00ffee&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Dhritish&label=Profile+Visits+🧡&color=00ffee&style=flat-square" />
 </p>
 ___
 
