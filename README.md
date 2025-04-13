@@ -1,3 +1,4 @@
+■█■█■█■█■█■█■█■■█■█■█■█■█■█■█■
 <p align="justify">
   <img src="banner.jpg" alt="Banner" />
 </p>
@@ -6,7 +7,7 @@
 
 <!-- Banner GIF -->
 <h1 align="center" style="font-family: monospace; color:#39ff14;">
-Meow ⚡
+Meow 😼
 </h1>
 
 <p align="center">
